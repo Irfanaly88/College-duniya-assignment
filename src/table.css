@@ -1,0 +1,15 @@
+table {
+ border-collapse: collapse;   
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+.college-logo {
+    height: 4rem;
+    width: 4rem;
+    border: solid #e3e3e3 1px ;
+}

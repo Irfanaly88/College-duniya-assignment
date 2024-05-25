@@ -1,0 +1,101 @@
+{
+    "colleges": [
+      {
+        "id": 1,
+        "name": "College A",
+        "logo": "college_a_logo.png",
+        "address": "123 College Street, City A, Country",
+        "courses": [
+          {
+            "course_name": "Engineering",
+            "JEE_advanced_cut_off": "120/360",
+            "course_fee_in_INR": 140000,
+            "1_year_fee": 70000,
+            "placement": {
+              "average_package": "₹8,00,000",
+              "highest_package": "₹15,00,000"
+            },
+            "user_reviews": {
+              "out_of_10": 7,
+              "dummy_number_reviews": 450
+            },
+            "ranking": {
+              "indian_ranking": 1,
+              "ranking_agency_logo": "ranking_agency_logo.png"
+            }
+          },
+          {
+            "course_name": "Medicine",
+            "JEE_advanced_cut_off": "N/A",
+            "course_fee_in_INR": 250000,
+            "1_year_fee": 125000,
+            "placement": {
+              "average_package": "₹10,00,000",
+              "highest_package": "₹20,00,000"
+            },
+            "user_reviews": {
+              "out_of_10": 8,
+              "dummy_number_reviews": 600
+            },
+            "ranking": {
+              "indian_ranking": 3,
+              "ranking_agency_logo": "ranking_agency_logo.png"
+            }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "College B",
+        "logo": "college_b_logo.png",
+        "address": "456 University Avenue, City B, Country",
+        "courses": [
+          {
+            "course_name": "Computer Science",
+            "JEE_advanced_cut_off": "N/A",
+            "course_fee_in_INR": 120000,
+            "1_year_fee": 60000,
+            "placement": {
+              "average_package": "₹9,00,000",
+              "highest_package": "₹18,00,000"
+            },
+            "user_reviews": {
+              "out_of_10": 9,
+              "dummy_number_reviews": 800
+            },
+            "ranking": {
+              "indian_ranking": 2,
+              "ranking_agency_logo": "ranking_agency_logo.png"
+            }
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "College C",
+        "logo": "college_c_logo.png",
+        "address": "789 School Road, City C, Country",
+        "courses": [
+          {
+            "course_name": "Business Administration",
+            "JEE_advanced_cut_off": "N/A",
+            "course_fee_in_INR": 180000,
+            "1_year_fee": 90000,
+            "placement": {
+              "average_package": "₹7,50,000",
+              "highest_package": "₹16,00,000"
+            },
+            "user_reviews": {
+              "out_of_10": 6,
+              "dummy_number_reviews": 400
+            },
+            "ranking": {
+              "indian_ranking": 4,
+              "ranking_agency_logo": "ranking_agency_logo.png"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
